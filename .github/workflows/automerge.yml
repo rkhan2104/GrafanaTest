@@ -6,7 +6,6 @@ on:
     # You can setup schedule here
     - cron: '* * * * *'
 
-permissions: read-all|write-all
 
 env:
   # replace "github_username" with your GitHub username
