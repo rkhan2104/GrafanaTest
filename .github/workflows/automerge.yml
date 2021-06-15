@@ -17,7 +17,7 @@ env:
   MY_BRANCH: test2
 
   # replace it with the path to master repo
-  MASTER_REPO: https://github.com/rkhan2104/GrafanaTest.git
+  MASTER_REPO: https://github.com/
 
   # replace "master" with your master branch name
   MASTER_BRANCH: test3
